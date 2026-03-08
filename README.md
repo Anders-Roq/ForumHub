@@ -1,4 +1,4 @@
-## 📚 ForumHub API
+## 📚 ForumHub API (Em Desenvolvimento)
 
 O **ForumHub** é uma API REST desenvolvida com **Spring Boot** que simula o funcionamento de um fórum de discussões. A aplicação permite o gerenciamento de tópicos, incluindo criação, listagem, atualização e remoção.
 
